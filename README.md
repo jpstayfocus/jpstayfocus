@@ -4,7 +4,7 @@ A little bit about me:
 
 - 🔭 Currently expanding horizons in: Full Stack Web Development
 - 🌱 Cultivating my skills in: Cybersecurity and Information Technology
-- 👯 Looking to collaborate on: Innovative tech projects that push boundaries
+- 🤝Looking to collaborate on: Innovative tech projects that push boundaries
 - 🤝 Open to helping with: Exploring the world of coding and cybersecurity
 - 💬 Let's talk about: The fascinating intersections of IT and cybersecurity
 - 📫 Reach me at: Connect with me on Discord (jpstayfocus)
