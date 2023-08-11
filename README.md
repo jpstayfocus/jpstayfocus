@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**jpstayfocus/jpstayfocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
 
-Here are some ideas to get you started:
+- 🔭 Currently expanding horizons in: Full Stack Web Development
+- 🌱 Cultivating my skills in: Cybersecurity and Information Technology
+- 👯 Looking to collaborate on: Innovative tech projects that push boundaries
+- 🤝 Open to helping with: Exploring the world of coding and cybersecurity
+- 💬 Let's talk about: The fascinating intersections of IT and cybersecurity
+- 📫 Reach me at: Connect with me on Discord (jpstayfocus)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories, discuss tech, or even collaborate on exciting projects!
+
+Remember, in the world of IT and cybersecurity, every challenge is an opportunity. Happy coding and stay secure! 🔐🚀
+
+
