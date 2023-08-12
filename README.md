@@ -13,7 +13,7 @@ A little bit about me:
 
 Feel free to explore my repositories, discuss tech, or even collaborate on exciting projects!
 
-Remember, in the world of IT and cybersecurity, every challenge is an opportunity. Happy coding and stay secure! 🔐🚀
+# Remember, in the world of IT and cybersecurity, every challenge is an opportunity. Happy coding and stay secure! 🔐🚀
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Academic [life](https://github.com/jpstayfocus/academics)
 
