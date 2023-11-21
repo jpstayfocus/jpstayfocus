@@ -2,7 +2,7 @@
 
 A little bit about me:
 
-+ 🔭 Currently expanding horizons in: Full Stack Development 
++ 🔭 Currently expanding horizons in: DEVSECOPS 
 + 🌱 Cultivating my skills in: Cybersecurity and Cloud Computing
 + 🤝 Looking to collaborate on: Innovative tech projects that push boundaries
 + 🤝 Open to helping with: Exploring the world of coding and cybersecurity
