@@ -9,7 +9,7 @@ A little bit about me:
 + 💬 Let's talk about: The fascinating intersections of Cloud Comouting and cybersecurity
 + 📫 Reach me at: Discord (jpstayfocus)
 + 😄 Pronouns: He/Him
-+ ⚡  Fun fact: I can solve a Rubik's cube in under 5 minutes!
++ ⚡ Fun fact: I can solve a Rubik's cube in under 5 minutes!
 
 Feel free to explore my repositories, discuss tech, or even collaborate on exciting projects!
 
