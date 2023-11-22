@@ -6,7 +6,7 @@ A little bit about me:
 + 🌱 Cultivating my skills in: Cybersecurity and Cloud Computing
 + 🤝 Looking to collaborate on: Innovative tech projects that push boundaries
 + 🤝 Open to helping with: Exploring the world of coding and cybersecurity
-+ 💬 Let's talk about: The fascinating intersections of Cloud Comouting and cybersecurity
++ 💬 Let's talk about: The fascinating intersections of Cloud Computing and cybersecurity
 + 📫 Reach me at: Discord (jpstayfocus)
 + 😄 Pronouns: He/Him
 + ⚡ Fun fact: I can solve a Rubik's cube in under 5 minutes!
