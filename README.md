@@ -2,8 +2,8 @@
 
 A little bit about me:
 
-+ 🔭 Currently expanding horizons in: DEVSECOPS 
-+ 🌱 Cultivating my skills in: Cybersecurity and Cloud Computing
++ 🔭 Currently expanding horizons in: Devsecops
++ 🌱 Cultivating my skills in: Cybersecurity, Cloud Computing and Programming
 + 🤝 Looking to collaborate on: Innovative tech projects that push boundaries
 + 🤝 Open to helping with: Exploring the world of coding and cybersecurity
 + 💬 Let's talk about: The fascinating intersections of Cloud Computing and cybersecurity
