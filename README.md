@@ -1,19 +1,19 @@
-### Hello Folks! 👋
+### Hello there! 👋 
 
-A little bit about me:
+Here's a bit about me:
 
-+ 🔭 Currently expanding horizons as a Full Stack
-+ 🌱 Cultivating my skills in: Cybersecurity, Cloud Computing and Programming
-+ 🤝 Looking to collaborate on: Innovative tech projects that push boundaries
-+ 🤝 Open to helping with: Exploring the world of coding and cybersecurity
-+ 💬 Let's talk about: The fascinating intersections of Cloud Computing and cybersecurity
-+ 📫 Reach me at: Discord (jpstayfocus)
++ 🔭 I'm currently diving into Full Stack development.
++ 🌱 Growing my skills in Cybersecurity, Cloud Computing, and Programming.
++ 🤝 I'm eager to collaborate on cool tech projects that push boundaries.
++ 🤝 Happy to help you explore the coding and cybersecurity world.
++ 💬 Let's chat about the exciting overlap of Cloud Computing and cybersecurity.
++ 📫 Reach me on Discord at jpstayfocus.
 + 😄 Pronouns: He/Him
 + ⚡ Fun fact: I can solve a Rubik's cube in under 5 minutes!
 
-Feel free to explore my repositories, discuss tech, or even collaborate on exciting projects!
+Feel free to check out my repositories, talk tech, or join forces on interesting projects!
 
-Remember, in the world of IT and cybersecurity, every challenge is an opportunity. Happy coding and stay secure! 🔐🚀
+Remember, in the world of IT and cybersecurity, every challenge is an opportunity. Happy coding, and stay secure! 🔐🚀
 
 + Academic [life](https://github.com/jpstayfocus/academics)
 
