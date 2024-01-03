@@ -2,7 +2,7 @@
 
 Here's a bit about me:
 
-+ Major: computer Science.
++ Major: Computer Science.
 + Growing my skills in Cybersecurity, Full Stack Development, and Programming.
 + Reach me on Discord at jpstayfocus.
 
