@@ -1,3 +1,3 @@
 ## Hello! 👋
 
-- 🤖 **Exploring Software Engineering and Cybersecurity**  
+- [x] **Exploring Software Engineering and Cybersecurity**  
