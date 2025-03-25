@@ -5,4 +5,4 @@
 - 🙏 I hope the code helps you out for your own assignments
 - 📫 How to reach me: jpstayfocus@gmail.com
 - 👉 Discord: jpstayfocus
-- 🎓 [Certfications](https://github.com/jpstayfocus/certifications)
+- 🎓 [Certifications](https://github.com/jpstayfocus/certifications)
