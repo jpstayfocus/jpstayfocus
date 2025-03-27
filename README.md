@@ -24,6 +24,9 @@
 - CCNA
   - In progress
 
+## 🛡️ Cybersecurity Labs
+- 
+
 ## 🔗 Connect with me:
 
 - 👉 Discord: jpstayfocus
