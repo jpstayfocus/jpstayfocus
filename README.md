@@ -19,9 +19,9 @@
 
 - Google Cybersecurity:
   - [Google cybersecurity Certifificate](https://github.com/jpstayfocus/certifications/tree/main/google-cybersecurity): It covers topics like threat identification, risk management, and security tools (Python, Linux, SQL) and so on.
-- CompTIA Security+
+- CompTIA A+
   - [CompTIA A+ 220-1201 (Core 1) and 220-1202 (Core 2) ](https://github.com/jpstayfocus/CompTIA-A-plus): _In progress_
-- CompTIA Security+
+- CompTIA Network+
   - [CompTIA Network+ (N10-009)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _In progress_
 - CompTIA Security+
   - [CompTIA Security+ (SY0-701)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _In progress_
