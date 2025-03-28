@@ -22,7 +22,7 @@
 - Udemy Courses - Ongoing Learning
   - CompTIA A+
     - [CompTIA A+ 220-1101 (Core 1) & 220-1102 (Core 2)) ](https://github.com/jpstayfocus/CompTIA-A-plus): _Completed_
-      _ Completed coursework covering hardware, networking, and troubleshooting fundamentals. Completed hands-on labs and practice exams.
+      - _Completed coursework covering hardware, networking, and troubleshooting fundamentals. Completed hands-on labs and practice exams._
   - CompTIA Network+
     - [CompTIA Network+ (N10-009)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _In progress_
 - CompTIA Security+
