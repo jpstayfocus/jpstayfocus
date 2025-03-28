@@ -23,16 +23,6 @@
 - **CompTIA Security+**  
   - [CompTIA Security+ (SY0-701)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _In progress_  
     - _Studying core cybersecurity concepts, risk management, encryption, and network security._  
-- **Udemy Courses - Learning**  
-  - **CompTIA A+**  
-    - [x] [CompTIA A+ 220-1101 (Core 1)](https://github.com/jpstayfocus/CompTIA-A-plus): _Completed_  
-      - _Completed coursework covering hardware, networking, and troubleshooting fundamentals. Completed hands-on labs and practice exams._  
-    - [x] [CompTIA A+ 220-1102 (Core 2)](https://github.com/jpstayfocus/CompTIA-A-plus): _Completed_  
-      - _Covered installation, configuration, and troubleshooting of operating systems, mobile devices, and networking._  
-  - **CompTIA Network+**  
-    - [x] [CompTIA Network+ (N10-009)](https://github.com/jpstayfocus/CompTIA-Network-plus): _Completed_  
-      - _Learned network protocols, configurations, and security essentials through real-world scenarios and practice exams._  
-
 
 ## 🛡️ Cybersecurity Labs
 - 
