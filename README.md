@@ -19,14 +19,15 @@
 
 - Google Cybersecurity:
   - [Google cybersecurity Certifificate](https://github.com/jpstayfocus/certifications/tree/main/google-cybersecurity): It covers topics like threat identification, risk management, and security tools (Python, Linux, SQL) and so on.
-- Udemy Courses - Ongoing Learning
+- Udemy Courses - Learning
   - CompTIA A+
     - [CompTIA A+ 220-1101 (Core 1) & 220-1102 (Core 2)) ](https://github.com/jpstayfocus/CompTIA-A-plus): _Completed_
       - _Completed coursework covering hardware, networking, and troubleshooting fundamentals. Completed hands-on labs and practice exams._
   - CompTIA Network+
-    - [CompTIA Network+ (N10-009)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _In progress_
+    - [CompTIA Network+ (N10-009)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _Completed_
+      - _Learned network protocols, configurations, and security essentials through real-world scenarios and practice exams._
 - CompTIA Security+
-  - [CompTIA Security+ (SY0-701)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _In progress_
+  - [CompTIA Security+ (SY0-701)](https://github.com/jpstayfocus/CompTIA-Security-SY0-701): _Ongoing Learning_
 
 ## 🛡️ Cybersecurity Labs
 - 
