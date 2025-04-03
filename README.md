@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ⭐️ Projects:
+## ⭐️ Academic Projects:
 
 - Data Mining
   - [Diabetes Prediction](https://github.com/jpstayfocus/data-mining): A data mining project that applies machine learning techniques to predict diabetes, leveraging datasets to build predictive models.
