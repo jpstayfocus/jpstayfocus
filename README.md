@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Portfolio](https://jpstayfocus.github.io/)
+
 ## ⭐️ Academic Projects:
 
 - Data Mining
