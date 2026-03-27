@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-** if you can’t access the repo—perhaps because it’s private—let me know via email and I’ll grant you access.**
+If you can’t access the repo—perhaps because it’s private—let me know via email and I’ll grant you access.
 
-## ⭐️ Academic Projects:
+## Projects:
 
 - Data Mining
   - [Diabetes Prediction](https://github.com/jpstayfocus/data-mining): A data mining project that applies machine learning techniques to predict diabetes, leveraging datasets to build predictive models.
@@ -27,7 +27,7 @@
     - _Studying core cybersecurity concepts, risk management, encryption, and network security._  
 
 ## 🛡️ Cybersecurity Labs
-- 
+- coming soon
 
 ## 🔗 Connect with me:
 
