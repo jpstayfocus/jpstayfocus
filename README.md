@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Portfolio](https://jpstayfocus.github.io/)
+If you cannot access a repo, maybe because it's private. Let me know by email, then I will give you access 
 
 ## ⭐️ Academic Projects:
 
