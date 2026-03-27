@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you cannot access a repo, maybe because it's private. Let me know by email, then I will give you access 
+** if you can’t access the repo—perhaps because it’s private—let me know via email and I’ll grant you access.**
 
 ## ⭐️ Academic Projects:
 
