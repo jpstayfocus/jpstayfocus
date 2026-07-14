@@ -68,7 +68,7 @@ AI bots implementing strategies to optimize performance in the GPU Crisis compet
 </td>
 <td width="50%">
 
-### 📜 [certifications](#)
+### 📜 [certifications](https://github.com/jpstayfocus/certifications)
 A running record of certifications earned from online courses and exams.
 
 `Learning` `Docs`
@@ -99,15 +99,6 @@ A running record of certifications earned from online courses and exams.
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpstayfocus&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff" alt="Activity Graph" />
 </div>
-
-<br>
-
-## 🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Data Science
-- Cybersecurity
 
 <br>
 
