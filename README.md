@@ -1,208 +1,191 @@
 <div align="center">
 
-# Hello World! 👋 I'm Jean-Pierre
+# Hello World! 👋
 
-### Computer Scientist · Cybersecurity Analytics Graduate Student
+# I'm Jean-Pierre
 
-Building **intelligent, secure, and scalable software** at the intersection of  
-**Software Engineering · Cybersecurity · AI · Data Science · Cloud**
+### 💻 Computer Scientist
+### 🎓 Graduate Student in Cybersecurity Analytics @ McGill University
 
-<br>
+Building intelligent and secure software through
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://jpstayfocus.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+**Artificial Intelligence • Machine Learning • Data Science • Cybersecurity**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Intelligent+Software;Machine+Learning+Enthusiast;Cybersecurity+Analytics+Graduate+Student;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## `> whoami`
+# ⚡ Tech Arsenal
 
-```yaml
-name: Jean-Pierre
-location: Montreal, Canada
-education: Graduate studies in Cybersecurity Analytics at McGill University
-focus:
-  - Secure Software Engineering
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Cloud Security
-currently_learning:
-  - Mathematics for Machine Learning
-  - Machine Learning
-  - Data Science
-```
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,azure,js,html,css,git,github,vscode" />
 
-## ⚡ Tech Arsenal
-
-### Languages and development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,git,github,vscode" />
 </p>
 
-### Data, cloud and platforms
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,azure,docker,githubactions" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🗓️ Absence Management Portal
+<td width="50%">
 
-Enterprise leave-management platform designed for a school board.
+## 🩺 Diabetes Prediction
 
-**Highlights**
+Machine Learning model for predicting diabetes using healthcare datasets.
 
-- Role-based employee, manager and admin workflows
-- Academic-year balance management
-- Microsoft Graph and Outlook integration
-- Automated notifications and reporting
-- Azure and PostgreSQL deployment
+- Data preprocessing
+- Feature engineering
+- Model evaluation
+- Predictive analytics
 
-**Stack**
-
-`Python` `Flask` `PostgreSQL` `Azure` `Microsoft Graph`
-
-[View repository](YOUR-REPOSITORY-LINK)
+**Python • Pandas • Scikit-learn**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 📦 Bulk Purchasing Portal
+## 🔍 Similarity Search
 
-Purchasing and budget-management platform for schools.
+Big Data project implementing efficient similarity search algorithms.
 
-**Highlights**
+- Search optimization
+- Data Mining
+- Large datasets
 
-- Excel catalogue ingestion and normalization
-- Historical catalogue versioning
-- School budgets and purchasing rounds
-- Order aggregation and administrative exports
-- Role-based school and administrator views
-
-**Stack**
-
-`Python` `Streamlit` `Pandas` `Excel`
-
-[View repository](YOUR-REPOSITORY-LINK)
+**Python • Algorithms**
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 🧠 Diabetes Prediction
+<td width="50%">
 
-Machine-learning project for predicting diabetes from healthcare data.
+## 🛡️ Network Infrastructure Security
 
-**Highlights**
+Cybersecurity project exploring secure infrastructure design and best practices.
 
-- Data preparation and exploration
-- Predictive model development
-- Model evaluation and comparison
-- Data-driven interpretation
+- Secure networks
+- Risk analysis
+- Defensive security
 
-**Stack**
-
-`Python` `Machine Learning` `Pandas` `scikit-learn`
-
-[View repository](YOUR-REPOSITORY-LINK)
+**Networking • Security**
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛡️ Network Infrastructure Security
+## 🎮 GPU Crisis Bots
 
-Cybersecurity project exploring secure network design and protection.
+Artificial Intelligence bots developed for the GPU Crisis strategy game.
 
-**Highlights**
+- AI strategies
+- Search algorithms
+- Performance optimization
 
-- Network-security architecture
-- Risk and vulnerability analysis
-- Defensive security practices
-- Infrastructure hardening
-
-**Stack**
-
-`Cybersecurity` `Networking` `Security`
-
-[View repository](YOUR-REPOSITORY-LINK)
+**Python • AI**
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 🧭 Current Mission
+# 📚 Currently Learning
 
 ```text
-[██████████] Software Engineering
-[████████░░] Cloud & Azure
-[███████░░░] Cybersecurity
-[█████░░░░░] Data Science
-[████░░░░░░] Machine Learning
-```
+🧠 Machine Learning              ██████████░░
 
-I am currently strengthening the mathematical and statistical foundations needed to build reliable machine-learning systems, with a long-term focus on intelligent cybersecurity and secure AI.
+📊 Data Science                  █████████░░░
 
----
+🔐 Cybersecurity Analytics       ██████████░░
 
-## 📊 GitHub Activity
+☁️ Cloud Security               ████████░░░░
 
-<div align="center">
+📐 Mathematics for ML            ███████░░░░░
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jpstayfocus&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpstayfocus&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jpstayfocus&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Areas of Interest
-
-```text
-secure software      machine learning       cybersecurity analytics
-cloud security       anomaly detection      data science
-artificial intelligence                    enterprise applications
+🧬 Deep Learning                 ██████░░░░░░
 ```
 
 ---
 
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpstayfocus&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpstayfocus&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jpstayfocus&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Mission
+
+> Build intelligent systems that combine Artificial Intelligence, Cybersecurity and Data Science to solve real-world problems.
+
+---
+
+# 🌎 Connect
+
+<p align="center">
+
+<a href="https://github.com/jpstayfocus">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### Let's build something intelligent, secure and useful. 🚀
+### "Let's build something amazing together." 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=jpstayfocus&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=jpstayfocus&style=for-the-badge&color=blueviolet)
 
 </div>
