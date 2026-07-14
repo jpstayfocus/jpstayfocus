@@ -24,7 +24,7 @@ Passionate about AI, Machine Learning, Data Science, and building secure, scalab
 <tr>
 <td width="50%">
 
-### 🩺 [Diabetes Prediction](#)
+### 🩺 [Diabetes Prediction](https://github.com/jpstayfocus/data-mining)
 Machine learning project that predicts diabetes using classification algorithms and data analysis.
 
 `Machine Learning` `Python` `Pandas`
@@ -32,7 +32,7 @@ Machine learning project that predicts diabetes using classification algorithms 
 </td>
 <td width="50%">
 
-### 🔍 [Similarity Search](#)
+### 🔍 [Similarity Search](https://github.com/jpstayfocus/Elements-of-Big-Data)
 Techniques for efficiently searching and comparing large datasets using similarity algorithms.
 
 `Big Data` `Python` `Algorithms`
@@ -42,7 +42,7 @@ Techniques for efficiently searching and comparing large datasets using similari
 <tr>
 <td width="50%">
 
-### 🛡️ [Network Infrastructure Security](#)
+### 🛡️ [Network Infrastructure Security](https://github.com/jpstayfocus/network-and-security/tree/main/final%20project)
 Security project demonstrating network infrastructure techniques and best practices.
 
 `Cybersecurity` `Networking` `Security`
@@ -50,7 +50,7 @@ Security project demonstrating network infrastructure techniques and best practi
 </td>
 <td width="50%">
 
-### ✈️ [Aeroplane Chess QT](#)
+### ✈️ [Aeroplane Chess QT](https://github.com/jpstayfocus/Aeroplane-Chess-QT)
 Graphical implementation of the classic aeroplane chess game using the Qt framework.
 
 `Qt` `C++` `Game Dev`
@@ -60,7 +60,7 @@ Graphical implementation of the classic aeroplane chess game using the Qt framew
 <tr>
 <td width="50%">
 
-### 🤖 [GPU Crisis Bots](#)
+### 🤖 [GPU Crisis Bots](https://github.com/jpstayfocus/GPUCrisis-Bots)
 AI bots implementing strategies to optimize performance in the GPU Crisis competitive game.
 
 `AI` `Strategy` `Python`
