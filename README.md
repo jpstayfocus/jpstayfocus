@@ -13,7 +13,7 @@ Passionate about AI, Machine Learning, Data Science, and building secure, scalab
 ## ⚡ Tech Arsenal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,flask,postgres,azure,js,pandas,numpy,sklearn,github&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,flask,postgres,azure,js,github&theme=dark" alt="Skills" />
 </div>
 
 <br>
